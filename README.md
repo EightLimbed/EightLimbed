@@ -5,7 +5,11 @@
 
 
 
-  - 🔭 I’m currently working on a binary meshing based voxel project with dynamic physics and lighting on *Godot*
+  - 🔭 I’m currently working on a binary meshing based voxel project with dynamic physics and lighting with
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+
   - 🌱 I’m currently learning;
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
