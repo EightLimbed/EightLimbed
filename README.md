@@ -2,9 +2,6 @@
 
 ### Dryden Ellis
 
-
-
-
   - 🔭 I’m currently working on a binary meshing based voxel project with dynamic physics and lighting with
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
@@ -19,7 +16,7 @@
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
   -💬 Ask me about;
-![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
 ![FUSION 360](https://img.shields.io/badge/Fusion%20360-%2300599C.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
