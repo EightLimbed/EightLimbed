@@ -1,7 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-![alt text](https://github.com/EightLimbed/EightLimbed/blob/main/Name.png)
-
 ### Current Project:
 
 A Binary Meshing Based Voxel Project With Dynamic Physics and Lighting Using;
