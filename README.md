@@ -23,4 +23,6 @@ A Binary Meshing Based Voxel Project With Dynamic Physics and Lighting Using;
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 
-[![Octopedibus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eightlimbed&&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
+
+### Stats:
+[![Octopedibus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eightlimbed&&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
