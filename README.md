@@ -1,5 +1,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+### About Me:
+
+
 ### Current Project:
 
 A Binary Meshing Based Voxel Project With Dynamic Physics and Lighting Using;
@@ -21,8 +24,10 @@ Trying to run stepcraft CNC, edit godot engine for optimisation, and learn shade
 ### Most Experienced In:
 
 ![FUSION 360](https://img.shields.io/badge/Fusion%20360-%2300599C.svg?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+
 
 See pinned repositories.
 
