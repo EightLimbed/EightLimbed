@@ -1,25 +1,27 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-### About Me:
+# Dryden Ellis
 
 
-### Current Project:
+[//]: # (### About Me:)
+[//]: # (I am a 12th grade high school student, with a focus on learning, creation, and application of new systems)
 
-A DDA Raymarched Voxel Project With Dynamic Terrain and Lighting Using;
+
+### [Current Project:](https://github.com/EightLimbed/Voxel-Engine-2)
+
+A DDA Raymarched Voxel Game/Engine With Dynamic Terrain and Lighting Using;
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
 ### Currently Learning:
 
-Trying to run stepcraft CNC, edit godot engine for optimisation, and learn shader coding in OPENGL's GLSL.
+Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn shader coding in OPENGL's GLSL.
 
 ![STEPCRAFT](https://img.shields.io/badge/Stepcraft-%23FFA500.svg?style=for-the-badge&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
-
 
 ### Most Experienced In:
 
@@ -30,7 +32,6 @@ Trying to run stepcraft CNC, edit godot engine for optimisation, and learn shade
 
 
 See pinned repositories.
-
 
 ### Github Stats:
 [![Octopedibus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eightlimbed&&hide_border=true&&disable_animations=true&&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
