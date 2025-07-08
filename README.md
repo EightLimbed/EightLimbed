@@ -5,7 +5,7 @@
 
 ### Current Project:
 
-A Binary Meshing Based Voxel Project With Dynamic Physics and Lighting Using;
+A DDA Raymarched Voxel Project With Dynamic Terrain and Lighting Using;
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
