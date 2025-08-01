@@ -14,6 +14,8 @@ A DDA Raymarched Voxel Game/Engine With Dynamic Terrain and Lighting Using;
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
+As well as a [local multiplayer snowboarding game with infinite procedural mountains](https://github.com/EightLimbed/MountainGame). (Same tools).
+
 ### Currently Learning:
 
 Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn shader coding in OPENGL's GLSL.
