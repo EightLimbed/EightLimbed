@@ -18,7 +18,7 @@ As well as a [local multiplayer snowboarding game with infinite procedural mount
 
 ### Currently Learning:
 
-Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn shader coding in OPENGL's GLSL.
+Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn compute shading in OPENGL's GLSL.
 
 ![STEPCRAFT](https://img.shields.io/badge/Stepcraft-%23FFA500.svg?style=for-the-badge&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
