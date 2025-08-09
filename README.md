@@ -5,20 +5,21 @@
 [//]: # (I am a 12th grade high school student, with a focus on learning, creation, and application of new systems)
 
 
-### [Current Project:](https://github.com/EightLimbed/Voxel-Engine-2)
+### Current Project:
 
-A DDA Raymarched Voxel Game/Engine With Dynamic Terrain and Lighting Using;
+A [softmin SDF Raymarched rendering engine](https://github.com/EightLimbed/BlobEngine) using;
 
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
-As well as a [local multiplayer snowboarding game with infinite procedural mountains](https://github.com/EightLimbed/MountainGame). (Same tools).
+As well as a [local multiplayer snowboarding game with infinite procedural mountains](https://github.com/EightLimbed/MountainGame) with;
+
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 
 ### Currently Learning:
 
-Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn compute shading in OPENGL's GLSL.
+Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn OPENGL.
 
 ![STEPCRAFT](https://img.shields.io/badge/Stepcraft-%23FFA500.svg?style=for-the-badge&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -31,6 +32,7 @@ Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn compu
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
 
 See pinned repositories for showcased projects.
