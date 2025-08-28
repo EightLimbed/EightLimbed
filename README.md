@@ -7,12 +7,12 @@
 
 ### Current Project:
 
-An [intersection based voxel renderer with a unique ligthing system](https://github.com/EightLimbed/BlobEngine) using;
+An [intersection based voxel renderer with a unique ligthing system](https://github.com/EightLimbed/BlobEngine) with;
 
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
-As well as a [local multiplayer snowboarding game with infinite procedural mountains](https://github.com/EightLimbed/MountainGame) with;
+As well as a [local multiplayer snowboarding game with infinite procedural mountains](https://github.com/EightLimbed/MountainGame) using;
 
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
