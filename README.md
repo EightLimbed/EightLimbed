@@ -14,12 +14,10 @@ A [raymarched voxel engine](https://github.com/EightLimbed/Pundus) with;
 
 ### Currently Learning:
 
-Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn OPENGL.
+Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn C++ and OPENGL.
 
 ![STEPCRAFT](https://img.shields.io/badge/Stepcraft-%23FFA500.svg?style=for-the-badge&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
 
 ### Most Experienced In:
@@ -29,6 +27,7 @@ Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn OPENG
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
 
 
 See pinned repositories for showcased projects.
