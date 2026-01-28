@@ -12,11 +12,6 @@ A [raymarched voxel engine](https://github.com/EightLimbed/Pundus) with;
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
-As well as a [local multiplayer snowboarding game with infinite procedural mountains](https://github.com/EightLimbed/MountainGame) using;
-
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-
 ### Currently Learning:
 
 Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn OPENGL.
