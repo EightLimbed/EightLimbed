@@ -1,31 +1,22 @@
 # Dryden Ellis
 
-
-[//]: # (### About Me:)
-[//]: # (I am a 12th grade high school student, with a focus on learning, creation, and application of new systems)
-
-
 ### Current Project:
 
-A [raymarched voxel engine](https://github.com/EightLimbed/Pundus) with;
+Messing around with various rendering things;
 
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 
 ### Currently Learning:
 
-Trying to run stepcraft CNC, edit Godot Engine for optimisation, and learn C++ and OPENGL.
+Learning C.
 
-![STEPCRAFT](https://img.shields.io/badge/Stepcraft-%23FFA500.svg?style=for-the-badge&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 ### Most Experienced In:
 
 ![FUSION 360](https://img.shields.io/badge/Fusion%20360-%2300599C.svg?style=for-the-badge&logo=autodesk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)&nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![OPENGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)&nbsp;
 
