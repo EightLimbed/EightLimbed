@@ -23,4 +23,4 @@ Learning C.
 See pinned repositories for showcased projects.
 
 ### Github Stats:
-[![Octopedibus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eightlimbed&&hide_border=true&&disable_animations=true&&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Octopedibus' GitHub stats](https://github-stats-extended.vercel.app/api?username=eightlimbed&&hide_border=true&&disable_animations=true&&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
